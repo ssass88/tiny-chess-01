@@ -1,2 +1,8 @@
 ﻿transcripts.tar.gz
 test_bundle.tar.gz
+temp_scores/
+temp_state/
+temp_state_antirep/
+temp_state_debug/
+__pycache__/
+main_enhanced.py
